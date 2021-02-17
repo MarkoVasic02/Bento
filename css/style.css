@@ -4,7 +4,7 @@
 
 :root {
   /* Fonts  */
-  --fsg: 100px; /* Time and Greetings */
+  --fsg: 200px; /* Time and Greetings */
   --fsm: 65px; /* Date */
   --fss: 25px; /* Greetings and Weather widger */
   --fses: 16px; /* Links List */
