@@ -18,8 +18,8 @@ if (hour >= 23 && hour < 5) {
   document.getElementById('greetings').innerText = gree1;
 } else if (hour >= 6 && hour < 12) {
   document.getElementById('greetings').innerText = gree2;
-} else if (hour >= 12 && hour < 17) {
-  document.getElementById('greetings').innerText = gree3 + name;
+} else if (hour >= 12 && hour < 18) {
+  document.getElementById('greetings').innerText = gree3 + name + '.';
 } else {
-  document.getElementById('greetings').innerText = gree4 + name;
+  document.getElementById('greetings').innerText = gree4 + name + '.';
 }
